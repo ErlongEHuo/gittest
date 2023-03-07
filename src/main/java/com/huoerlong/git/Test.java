@@ -15,5 +15,7 @@ public class Test {
         System.out.println("测试git5");
         System.out.println("push");
         System.out.println("push1");
+        System.out.println("pull");
+        System.out.println("hhh ");
     }
 }
