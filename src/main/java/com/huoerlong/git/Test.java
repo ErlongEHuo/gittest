@@ -13,5 +13,6 @@ public class Test {
         System.out.println("测试git3");
         System.out.println("测试git4");
         System.out.println("测试git5");
+        System.out.println("push");
     }
 }
